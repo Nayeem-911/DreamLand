@@ -1,0 +1,14 @@
+.body{
+    background-color: floralwhite;
+}
+
+.heading{
+    color:darkcyan;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    background-color: bisque;
+    padding: 30px;
+    border: 7.5px solid darkcyan;
+}

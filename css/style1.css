@@ -1,45 +1,80 @@
 .body{
-    background-color: lightblue;
+    background-color: lavender;
 }
+
 
 .heading{
     color:darkcyan;
-    font-size: 60px;
+    font-size: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
     text-align: center;
     text-decoration: 3px underline darkorange;
-    background-color: lightskyblue;
+    background-color: gainsboro;
     padding: 30px;
     border-top: 6px solid darkcyan;
-    border-bottom: 6px solid darkcyan;
+    border-bottom: 3px solid darkcyan;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
-p{
+p, li{
     font-size: 18px;
 }
 
 h2{
-    font-size: 40px;
+    font-size: 60px;
     color: peru;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     text-decoration: underline darkgreen;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 20px;
 }
 
 .foot{
-    border-top: 5px solid darkcyan;
+    border-top: 2.5px solid darkcyan;
     text-align: center;
     font-size: 40px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     border-bottom: 5px solid darkcyan;
+    clear: both;
 }
 
 .main{
-    width: 1000px;
-    margin: 0 auto;
+    background-color: lightcyan; 
+    width: 1020px;
+    margin : 15px;
+    border: 3px solid darkcyan;
+    padding-left: 20px ;
+    padding-right: 10px;
+    float: left;
+}
+
+.image{
+    padding-inline: 50px;
+}
+
+.side1{
+    background-color: lightcyan;
+    border-bottom: 6px solid darkcyan;
+    border-top: 3px solid darkcyan;
+    width: 360px;
+    padding: 10px;
+    float: right;
+    margin: 15px;
+
+}
+
+h3{
+    font-size: 30px;
+    color: peru;
+    text-decoration: underline lightseagreen;
+    margin: 5px;
 }
 
 a:link{
-    color: black;
+    display: inline;
 }

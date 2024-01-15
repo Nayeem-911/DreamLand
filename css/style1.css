@@ -54,7 +54,9 @@ h2{
 }
 
 .image{
-    padding-left: 150px;
+    padding-left: 100px;
+    width: 750px;
+    margin: 5px;
 }
 
 .side1{

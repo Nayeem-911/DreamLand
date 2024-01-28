@@ -102,15 +102,17 @@ h3{
     font-size: 20px;
     clear: both;
     margin: 15px;
-    border: 2px solid black;
+    border: 2px solid darkcyan;
     padding: 10px;
+    background-color: lightcyan;
 }
 
 .ppage{
     float: left;
     font-size: 20px;
     margin: 15px;
-    border: 2px solid black;
+    border: 2px solid darkcyan;
     padding: 10px;
+    background-color: lightcyan;
 }
 
